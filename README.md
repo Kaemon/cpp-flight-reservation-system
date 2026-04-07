@@ -1,5 +1,3 @@
-<img width="1710" height="1107" alt="Screenshot 2026-03-26 at 3 15 32 PM" src="https://github.com/user-attachments/assets/329e1098-2eba-44c3-9847-80ed5ca38712" /># ✈️ Flight Reservation & Seating Management System
-
 A C++ implementation of a flight reservation system using two data structure approaches: **Array-based** and **Linked List-based**, with performance comparison between both.
 
 ---
